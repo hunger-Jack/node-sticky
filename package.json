@@ -9,12 +9,16 @@
   },
   "dependencies": {
     "cookie-parser": "~1.4.3",
+    "css-loader": "^0.28.11",
     "debug": "~2.6.9",
     "express": "~4.16.0",
     "http-errors": "~1.6.2",
+    "less": "^3.0.1",
+    "less-loader": "^4.1.0",
     "less-middleware": "~2.2.1",
     "morgan": "~1.9.0",
     "pug": "2.0.0-beta11",
+    "style-loader": "^0.20.3",
     "webpack": "^4.3.0",
     "webpack-cli": "^2.0.13"
   },

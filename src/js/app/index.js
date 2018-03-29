@@ -1,3 +1,4 @@
-import '../module/a'
-import '../module/b'
-console.log("I am app")
+let toast = require("module/toast").toast;
+require("less/toast.less")
+
+toast("hello,nodejs")
